@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ehsan Ansari</h1>
 <h3 align="center">Aspiring Software Engineer | C++ | DSA | AI & ML | Web Development</h3>
 
-- 🌱 I’m currently learning **fullstack develpoment, Ai & ML, and DSA**
+- 🌱 I’m currently learning **fullstack development, Ai & ML, and DSA**
 
 - 👯 I’m looking to collaborate on **Open Source Projects & Web Development**
 
